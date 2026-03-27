@@ -1,11 +1,12 @@
 # 7 A)DESIGN-AND-ANALYSIS-OF-HORN-ANTENNA-USING-CST-MICROWAVE-STUDIO
 
-**Aim of the Experiment:** To design a Horn antenna operating at 5.5 GHz and to find the directivity andHalf power beam width form the radiation patterns.
+## Aim of the Experiment:
+To design a Horn antenna operating at 5.5 GHz and to find the directivity andHalf power beam width form the radiation patterns.
 Software to be used: CST studio suite 2019 (Student edition)
 
-**Design:**
+## Design:
 
-**	Mathematical Calculation**
+## 	Mathematical Calculation
 
 Tan θ/2 =a/2L 
 L=a
@@ -23,48 +24,38 @@ sing
 U a	L  2 we get a=110 mm for both E and H plane.
 8
 
-**Design of Horn Antenna**
+## Design of Horn Antenna
 
 <img width="580" height="172" alt="image" src="https://github.com/user-attachments/assets/6e6c4030-74e3-463e-b6d7-0a0c99a0e577" />
 
-**S11 characteristics**
+## S11 characteristics
 
 <img width="624" height="189" alt="image" src="https://github.com/user-attachments/assets/daf91d14-03d2-4c29-b99c-bbd0074d331e" />
 
-**	Directive gain**
+##	Directive gain
 
 <img width="624" height="188" alt="image" src="https://github.com/user-attachments/assets/99819bac-017a-4567-b51d-b2e2c43a4d0b" />
 
-**Radiation Patterns and Half power beam width**
+## Radiation Patterns and Half power beam width
 
 <img width="624" height="375" alt="image" src="https://github.com/user-attachments/assets/c75feeaf-de93-4ca6-9ed3-58d6a8d7ba52" />
 
-**Conclusion**
+## Conclusion
 
 From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,from this we have Found the S11 C/s,Directivity and Radiation Pattern. From which we found that the Directivity to be near 15
 
-Result:
+## Result:
 
-The horn antenna was successfully designed and simulated using CST Microwave Studio to operate at 5.5 GHz.
+The horn antenna was successfully designed and simulated using **CST Microwave Studio** to operate at **5.5 GHz**.
 
-Antenna type: Pyramidal Horn Antenna
+- **Antenna type:** Pyramidal Horn Antenna  
+- **Operating frequency (f):** 5.5 GHz  
+- **Wavelength (λ):** 54.54 mm  
+- **Aperture size (a):** 110 mm (for both E and H planes)  
+- **Horn length (L):** 160 mm  
+- **Flare angle (θ):** ≈ 38°  
+- **Return loss (S11):** Better than –25 dB at 5.5 GHz  
+- **Directivity (D):** ≈ 15 dB  
+- **Half Power Beam Width (HPBW):** ≈ 26°  
 
-Operating frequency (f): 5.5 GHz
-
-Wavelength (λ): 54.54 mm
-
-Aperture size (a): 110 mm (for both E and H planes)
-
-Horn length (L): 160 mm
-
-Flare angle (θ): ≈ 38°
-
-Return loss (S11): Better than –25 dB at 5.5 GHz
-
-Directivity (D): ≈ 15 dB
-
-Half Power Beam Width (HPBW): ≈ 26°
-
-Hence, the designed horn antenna provides good impedance matching, high directivity, and a narrow beam width suitable for microwave applications.
-
-
+**Hence, the designed horn antenna provides good impedance matching, high directivity, and a narrow beam width suitable for microwave applications.**
